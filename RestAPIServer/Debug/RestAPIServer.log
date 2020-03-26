@@ -1,0 +1,14 @@
+﻿  FileManager.cpp
+  HTTPManager.cpp
+  Main.cpp
+  Server.cpp
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\Server.cpp(52,41): warning C4477: "sprintf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "LONGLONG"
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\Server.cpp(52,41): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\Server.cpp(52,41): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\Server.cpp(171,38): warning C4477: "sprintf_s": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "LONGLONG"
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\Server.cpp(171,38): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\Server.cpp(171,38): message : рекомендуется использовать "%I64d" в строке форматирования
+  SupportFunctions.cpp
+C:\Users\LENOVO\source\repos\RestAPIServer\RestAPIServer\SupportFunctions.cpp(17,28): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  RestAPIServer.vcxproj -> C:\Users\LENOVO\source\repos\RestAPIServer\Debug\RestAPIServer.exe
